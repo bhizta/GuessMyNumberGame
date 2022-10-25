@@ -1,1 +1,1 @@
-# GuessMyNumberGame
+Nice game
